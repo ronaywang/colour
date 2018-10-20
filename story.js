@@ -626,6 +626,7 @@ var set = squiffy.set;
 
 
 squiffy.story.start = '_default';
+squiffy.story.id = 'e42d80d925';
 squiffy.story.sections = {
 	'_default': {
 		'text': "<p>June 1882. You are sitting in your cottage with your wife. Afternoon sunlight streams through the window. It&#39;s a peaceful summer day.</p>\n<p>Suddenly, there is a knock on the door. You can <a class=\"squiffy-link link-passage\" data-passage=\"ignore the knock\" role=\"link\" tabindex=\"0\">ignore the knock</a> or <a class=\"squiffy-link link-section\" data-section=\"open the door\" role=\"link\" tabindex=\"0\">open the door</a>. </p>",
