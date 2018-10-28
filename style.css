@@ -1,7 +1,7 @@
 a.squiffy-link
 {
     text-decoration: underline;
-    color: Blue;
+    color: red;
     cursor: pointer;
 }
 a.squiffy-link.disabled
